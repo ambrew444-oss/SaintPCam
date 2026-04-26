@@ -1,8 +1,0 @@
-#!/bin/zsh
-
-set -e
-
-PROJECT_DIR="/Users/mihailsipilov/IdeaProjects/cam"
-LAUNCHER="$PROJECT_DIR/start.command"
-
-open -a Terminal "$LAUNCHER"
